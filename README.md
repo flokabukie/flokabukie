@@ -18,19 +18,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**A little peak behind the curtain**
+**A sneak peak behind the curtain**
 
 - 🔭 I’m currently working on different data science projects
 - 🌱 I’m currently learning machine learning 
 - 👯 I’m looking to collaborate on any data science projects and open to learn more to widn my knowledge pool.
-- 🤔 I’m looking for help with ...
 - 💬 You can ask me about anything....literally anything!
-- 📫 Want to reach me?: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I am a perfect blend of Mathematics, Designing and Data. That is a sweet cocktail of versatilty.
 -->
 
-- 📫 Want to reach me?: ...
+
+**- 📫 Want to reach out? I'd love to chat:**
+
 [![Alt text](image.png)](https://www.linkedin.com/in/florentia-teye-75270a191/)
 
 
