@@ -1,8 +1,11 @@
-## Welcome to my side of town. I am Florentia 👋
+## Welcome to my side of town. 👋
+
+[![hello.gif](https://i.postimg.cc/nc1tRNGW/hello.gif)](https://postimg.cc/bsdMdCM0)
  
 
 
- ### ✨I am a Data Scientist with a passion to understand data and explore its power in making insightful decisions in real life projects.✨
+
+ ### ✨My name is Florentia and I am a Data Scientist with a passion to understand data and explore its power in making insightful decisions in real life projects.✨
 <!--
 **flokabukie/flokabukie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
