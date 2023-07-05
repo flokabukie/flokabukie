@@ -31,6 +31,11 @@ Here are some ideas to get you started:
 -->
 
 - 📫 Want to reach me?: ...
-[![LinkedIn](images/linkedin.jpeg)](https://www.linkedin.com/in/florentia-teye-75270a191/)
+[![Alt text](image.png)](https://www.linkedin.com/in/florentia-teye-75270a191/)
 
-![image](linkedin.jpeg)(https://www.linkedin.com/in/florentia-teye-75270a191/)
+
+
+
+## Languages and Tools:
+
+[![My Skills](https://skillicons.dev/icons?i=python,github,vscode,fastapi,figma&theme=light)](https://skillicons.dev)
